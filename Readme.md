@@ -86,11 +86,6 @@
 
 <br />
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TechSammed&theme=tokyo-night&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-</div>
-
-<br />
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=60&section=footer" width="100%" />
