@@ -87,7 +87,7 @@
 <br />
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TechSammed&theme=tokyonight&no-bg=true&margin-w=15&column=4" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TechSammed&theme=tokyo-night&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
 <br />
