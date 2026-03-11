@@ -24,22 +24,45 @@
 ---
 
 ## 🏗 Technical Toolkit
+---
 
-### ⌯ Generative AI & Agents
+## 🏗 Technical Toolkit
+
+### ⌯ Generative AI & Agentic Architectures
 <p align="left">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/LangGraph-black?style=for-the-badge&logo=graph&logoColor=38BDF8" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/OpenAI_SDK-412991?style=for-the-badge&logo=openai&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Pinecone-38BDF8?style=for-the-badge&logo=pinecone&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG_Pipelines-38BDF8?style=for-the-badge&logo=databricks&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Vector_DB-0F172A?style=for-the-badge&logo=pinecone&logoColor=38BDF8" />
 </p>
 
-### ⧯ Machine Learning & Data
+<br />
+
+### ⧯ Machine Learning & Neural Engines
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/C++_DSA-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </p>
+<p align="left">
+  <img src="https://img.shields.io/badge/NLP-4B5563?style=for-the-badge&logo=huggingface&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Computer_Vision-38BDF8?style=for-the-badge&logo=opencv&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
+
+<br />
+
+### ⌗ Backend, MLOps & Deployment
+<p align="left">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/REST_API-020617?style=for-the-badge&logo=jsonwebtokens&logoColor=38BDF8" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
 
 ---
 
