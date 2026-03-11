@@ -8,20 +8,34 @@
 
 ---
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=System.out.println(%22Hello+World!%22);I'm+Sammed+Savadatte;AI+Engineer+%26+ML+Developer;Building+Agentic+Workflows+%F0%9F%A4%96;LangChain+%2B+LangGraph+Architect" alt="Typing SVG" />
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0B1120&text=AI%20Engineering%20in%20Action&fontSize=45&animation=fadeIn&fontColor=38BDF8&stroke=38BDF8&strokeWidth=1" width="100%" />
+</div>
+
+<br />
+
 ## ⫸ Dev Portfolio
-<table align="center">
-  <tr>
-    <td width="65%" style="vertical-align: top; border: none;">
-      <p>⌬ <b>Background:</b> 3rd Year Information Science @ MVJCE, Bengaluru</p>
-      <p>⎔ <b>Core Focus:</b> Developing Agentic Systems & Scalable ML Models</p>
-      <p>⏛ <b>Current Stack:</b> RAG Pipelines, LLM Orchestration, and Neural Nets</p>
-      <p>◈ <b>Mindset:</b> "Building robust AI systems that solve real-world problems."</p>
-    </td>
-    <td width="35%" align="center" style="border: none;">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Zic3Byd292ZjF4Y3M0YmN4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L8K62iTD8Hqu97SgMc/giphy.gif" width="180"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" style="border: none;">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=TechSammed&repo=YOUR_BEST_REPO&theme=tokyonight&border_color=38BDF8&show_owner=true" />
+      </td>
+      <td width="50%" style="border: none;">
+         <p><b>⌬ Background:</b> 3rd Year IS @ MVJCE, Bengaluru</p>
+         <p><b>⎔ Focus:</b> Agentic Systems & Scalable ML</p>
+         <p><b>⏛ Stack:</b> RAG, LLM Orchestration, Neural Nets</p>
+         <p><b>◈ Mindset:</b> <i>"Solving real-world problems with robust AI."</i></p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TechSammed/TechSammed/output/github-contribution-grid-snake.svg?sanitize=true" alt="Snake animation" />
+</p>
 
 ---
 
