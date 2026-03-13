@@ -20,10 +20,6 @@
 > - 🧠 **Mindset:** *"Building robust AI that solves real-world problems."*
 
 <br clear="both" />
-
----
-
-## 🏗 Technical Toolkit
 ---
 
 ## 🏗 Technical Toolkit
