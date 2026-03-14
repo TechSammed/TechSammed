@@ -35,23 +35,31 @@
 
 <br />
 
-### ⧯ Machine Learning & Neural Engines
+### ⧯ AI / Machine Learning
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/C++_DSA-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-</p>
-<p align="left">
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/NLP-4B5563?style=for-the-badge&logo=huggingface&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Computer_Vision-38BDF8?style=for-the-badge&logo=opencv&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Computer_Vision-38BDF8?style=for-the-badge&logo=opencv&logoColor=white" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 
-<br />
+### ⧯ Programming & Problem Solving
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Data_Structures-0EA5E9?style=for-the-badge" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Algorithms-F97316?style=for-the-badge" />
+</p>
 
-### ⌗ Backend, MLOps & Deployment
+<br/>
+
+### ⌗ Backend & Deployment
 <p align="left">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/REST_API-020617?style=for-the-badge&logo=jsonwebtokens&logoColor=38BDF8" />&nbsp;&nbsp;
