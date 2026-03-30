@@ -69,16 +69,7 @@
 
 ---
 
-## 📊 Performance Metrics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TechSammed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechSammed&layout=compact&theme=tokyonight&hide_border=true" height="180px"/>
-</div>
-
-<br />
-
-### 📈 Contribution Momentum
+## 📈 Contribution Momentum
 <p align="center">
   <img src="https://raw.githubusercontent.com/TechSammed/TechSammed/output/github-contribution-grid-snake.svg?sanitize=true&v=3" alt="Snake animation" />
   <br/>
