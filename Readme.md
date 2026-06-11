@@ -96,9 +96,6 @@
   <a href="mailto:your-email@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://my-protpolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
 </div>
 
 <br />
