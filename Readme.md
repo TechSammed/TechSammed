@@ -14,7 +14,7 @@
 </div>
 
 > **System Architecture & Background**
-> - 🎓 **Academic:** 3rd Year IS @ MVJCE, Bengaluru.
+> - 🎓 **Academic:** FInal Year ISE @ MVJCE, Bengaluru.
 > - ⚡ **Focus:** Agentic Systems & Scalable ML Models.
 > - 🛠️ **Current:** RAG Pipelines & LLM Orchestration.
 > - 🧠 **Mindset:** *"Building robust AI that solves real-world problems."*
